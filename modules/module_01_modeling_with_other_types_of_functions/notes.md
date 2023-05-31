@@ -127,8 +127,8 @@ It is Said as either:
 
 ## Inverse Variation
 
-The power function with **b < 0** should be rewritten from **y = ax<sup>b</sup>
-** to **y = ax<sup>&minus;c</sup>**,
+The power function with **b < 0** should be rewritten from 
+**y = ax<sup>b</sup>** to **y = ax<sup>&minus;c</sup>**,
 where **c** is a positive number equal to **|&hairsp;b&hairsp;|**.
 
 - Alternate form useful for interpreting inverse variation.
