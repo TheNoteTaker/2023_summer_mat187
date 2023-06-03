@@ -1,27 +1,31 @@
 # Module 2 - Rational Functions
 
 <!-- TOC -->
+
 * [Module 2 - Rational Functions](#module-2---rational-functions)
 * [General Notes](#general-notes)
 * [Rational Functions](#rational-functions)
 * [Asymptotes](#asymptotes)
-  * [Vertical Asymptotes](#vertical-asymptotes)
-    * [VA Example Problem 1](#va-example-problem-1)
-    * [How to Find Vertical Asymptotes](#how-to-find-vertical-asymptotes)
-      * [Another Example](#another-example)
-  * [Horizontal Asymptotes](#horizontal-asymptotes)
-    * [How to Find Horizontal Asymptotes](#how-to-find-horizontal-asymptotes)
+    * [Vertical Asymptotes](#vertical-asymptotes)
+        * [VA Example Problem 1](#va-example-problem-1)
+        * [How to Find Vertical Asymptotes](#how-to-find-vertical-asymptotes)
+            * [Another Example](#another-example)
+    * [Horizontal Asymptotes](#horizontal-asymptotes)
+        * [How to Find Horizontal Asymptotes](#how-to-find-horizontal-asymptotes)
 * [Removable Discontinuities (Holes)](#removable-discontinuities-holes)
-  * [How to Find Removable Discontinuities (Holes)](#how-to-find-removable-discontinuities-holes)
-  * [Drawing a Rational Function Graph by Hand](#drawing-a-rational-function-graph-by-hand)
-  * [](#)
+    * [How to Find Removable Discontinuities (Holes)](#how-to-find-removable-discontinuities-holes)
+    * [Drawing a Rational Function Graph by Hand](#drawing-a-rational-function-graph-by-hand)
+    * [](#)
+
 <!-- TOC -->
 
 # General Notes
 
-- For more information, refer to previous notes in [MAT151 of 2023](https://github.com/TheNoteTaker/2023_spring_mat151/blob/main/units/unit_03_function_transformations_quadratic_polynomial_and_rational_functions/notes.md#module-12---rational-functions)
+- For more information, refer to previous notes
+  in [MAT151 of 2023](https://github.com/TheNoteTaker/2023_spring_mat151/blob/main/units/unit_03_function_transformations_quadratic_polynomial_and_rational_functions/notes.md#module-12---rational-functions)
 - Remember to always factor both numerator and denominator before simplifying
-  rational functions. This will help with accurately finding things like the domain.
+  rational functions. This will help with accurately finding things like the
+  domain.
 
 # Rational Functions
 
@@ -57,7 +61,7 @@ in billions of dollars.
    plugging in each value into the equation for **p**, **C**, and **&Delta;C**.
 
    | Percent of<br/>Pollution Removed<br/>(p) | Cost<br/>($ billions)<br/>(C) | Change in the Cleanup Cost<br/>($ billions)<br/>(&Delta;C) |
-             |:----------------------------------------:|:-----------------------------:|:----------------------------------------------------------:|
+                |:----------------------------------------:|:-----------------------------:|:----------------------------------------------------------:|
    |                    0                     |               0               |                          0.02667                           |
    |                    25                    |            0.02667            |                          0.05333                           |
    |                    50                    |            0.08000            |                          0.16000                           |
@@ -106,7 +110,8 @@ First, factor the function:
 
 ![](assets/fun_va_001.png)
 
-**(x - 3)** is in both the numerator and denominator, so as long as **x &ne; 3**, **<sup>x - 3</sup>&frasl;<sub>x - 3</sub> = 1**.
+**(x - 3)** is in both the numerator and denominator, so as long as **x &ne; 3
+**, **<sup>x - 3</sup>&frasl;<sub>x - 3</sub> = 1**.
 
 The simplified version is:
 
@@ -122,8 +127,11 @@ Wrapping it up by graphing the function:
 
 ![](assets/graph_ha_001.png)
 
-- A **horizonal asymptote** of a function **&fnof;** is a horizontal line that the graph of **fnof;** approaches as **x** approaches **&pm;&infin;**.
-  - _More formally:_ A horizontal asymptote occurs at **y = b** <u>only if</u> the graph of **&fnof;** approaches **y = b** as **x** approaches **&pm;&infin;**.
+- A **horizonal asymptote** of a function **&fnof;** is a horizontal line that
+  the graph of **fnof;** approaches as **x** approaches **&pm;&infin;**.
+    - _More formally:_ A horizontal asymptote occurs at **y = b** <u>only if</u>
+      the graph of **&fnof;** approaches **y = b** as **x** approaches *
+      *&pm;&infin;**.
 - Graphs can have both horizontal and vertical asymptotes.
 - Horizontal asymptotes of rational functions are a line, **y = b**, that the
   function approaches as the independent variables approaches **&pm;&infin;**.
@@ -132,24 +140,30 @@ Wrapping it up by graphing the function:
 
 ![](assets/graph_ha_002.png)
 
-- In this example graph, the line oscillates _(moves back and forth)_, but as **x &rarr; &infin;, &fnof;(x) &rarr; 3**.
+- In this example graph, the line oscillates _(moves back and forth)_, but as *
+  *x &rarr; &infin;, &fnof;(x) &rarr; 3**.
 
 ### How to Find Horizontal Asymptotes
 
-_Reminder_: The leading coefficient is the coefficient of the term with the the largest exponent. As **x &rarr; &pm;&infin;**, the graph will be more and more influenced by the _leading term_.
+_Reminder_: The leading coefficient is the coefficient of the term with the the
+largest exponent. As **x &rarr; &pm;&infin;**, the graph will be more and more
+influenced by the _leading term_.
 
-- For values of **x** near **&pm;&infin;, &fnof;(x) &approx; <sup>ax<sup>n</sup></sup>&frasl;<sub>bx<sup>m</sup></sub>**.
+- For values of **x** near **&pm;&infin;, &fnof;(x) &approx; <sup>ax<sup>
+  n</sup></sup>&frasl;<sub>bx<sup>m</sup></sub>**.
 
 <u>Example Functions:</u>
 
 ![](assets/fun_ha_001.png)
 
-Using the ratio of the leading terms in the above functions to approximate the value of each function:
+Using the ratio of the leading terms in the above functions to approximate the
+value of each function:
 
 ![](assets/fun_ha_002.png)
 
 1. As **&fnof;(x) &rarr; &infin;, &fnof;(x) &rarr; 0 | HA: y = 0**
-2. As **g(x) &rarr; &infin;, g(x) &rarr; <sup>3</sup>&frasl;<sub>4</sub> | HA: y = <sup>3</sup>&frasl;<sub>4</sub>**
+2. As **g(x) &rarr; &infin;, g(x) &rarr; <sup>3</sup>&frasl;<sub>4</sub> | HA:
+   y = <sup>3</sup>&frasl;<sub>4</sub>**
 3. As **h(x) &rarr; &infin;, h(x) &rarr; &infin; | HA: None**
 
 ![](assets/def_ha_001.png)
@@ -184,13 +198,18 @@ Removable discontinuities are shown in a graph as empty circles:
 
 # Drawing a Rational Function Graph by Hand
 
-If you know the **x-intercepts**, **y-intercepts**, **vertical asymptotes**, and **horizontal asymptotes** of a rational function, you can sketch its graph by hand.
+If you know the **x-intercepts**, **y-intercepts**, **vertical asymptotes**, and
+**horizontal asymptotes** of a rational function, you can sketch its graph by
+hand.
 
 # Inverses of Rational Functions
 
-- A rational function that is strictly increasing or strictly decreasing will have an inverse function.
-- A rational function that is changes from increasing to decreasing or vice versa will not have an inverse function.
-- The process of finding the inverse of a rational function is algebraically complex.
+- A rational function that is strictly increasing or strictly decreasing will
+  have an inverse function.
+- A rational function that is changes from increasing to decreasing or vice
+  versa will not have an inverse function.
+- The process of finding the inverse of a rational function is algebraically
+  complex.
 
 ## Example of Finding The Inverse of a Rational Function
 
