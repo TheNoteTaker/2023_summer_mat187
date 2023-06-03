@@ -1,22 +1,21 @@
 # Module 2 - Rational Functions
 
 <!-- TOC -->
-
 * [Module 2 - Rational Functions](#module-2---rational-functions)
 * [General Notes](#general-notes)
 * [Rational Functions](#rational-functions)
 * [Asymptotes](#asymptotes)
-    * [Vertical Asymptotes](#vertical-asymptotes)
-        * [VA Example Problem 1](#va-example-problem-1)
-        * [How to Find Vertical Asymptotes](#how-to-find-vertical-asymptotes)
-            * [Another Example](#another-example)
-    * [Horizontal Asymptotes](#horizontal-asymptotes)
-        * [How to Find Horizontal Asymptotes](#how-to-find-horizontal-asymptotes)
+  * [Vertical Asymptotes](#vertical-asymptotes)
+    * [VA Example Problem 1](#va-example-problem-1)
+    * [How to Find Vertical Asymptotes](#how-to-find-vertical-asymptotes)
+      * [Another Example](#another-example)
+  * [Horizontal Asymptotes](#horizontal-asymptotes)
+    * [How to Find Horizontal Asymptotes](#how-to-find-horizontal-asymptotes)
 * [Removable Discontinuities (Holes)](#removable-discontinuities-holes)
-    * [How to Find Removable Discontinuities (Holes)](#how-to-find-removable-discontinuities-holes)
-    * [Drawing a Rational Function Graph by Hand](#drawing-a-rational-function-graph-by-hand)
-    * [](#)
-
+  * [How to Find Removable Discontinuities (Holes)](#how-to-find-removable-discontinuities-holes)
+* [Drawing a Rational Function Graph by Hand](#drawing-a-rational-function-graph-by-hand)
+* [Inverses of Rational Functions](#inverses-of-rational-functions)
+  * [Example of Finding The Inverse of a Rational Function](#example-of-finding-the-inverse-of-a-rational-function)
 <!-- TOC -->
 
 # General Notes
@@ -60,13 +59,14 @@ in billions of dollars.
 1. Create a table from 0 to 100 (practical domain) in increments of 25 by
    plugging in each value into the equation for **p**, **C**, and **&Delta;C**.
 
-   | Percent of<br/>Pollution Removed<br/>(p) | Cost<br/>($ billions)<br/>(C) | Change in the Cleanup Cost<br/>($ billions)<br/>(&Delta;C) |
-                |:----------------------------------------:|:-----------------------------:|:----------------------------------------------------------:|
-   |                    0                     |               0               |                          0.02667                           |
-   |                    25                    |            0.02667            |                          0.05333                           |
-   |                    50                    |            0.08000            |                          0.16000                           |
-   |                    75                    |            0.24000            |                          unknown                           |
-   |                   100                    |           undefined           |                                                            |
+| Percent of<br/>Pollution Removed<br/>(p) | Cost<br/>($ billions)<br/>(C) | Change in the Cleanup Cost<br/>($ billions)<br/>(&Delta;C) |
+|:----------------------------------------:|:-----------------------------:|:----------------------------------------------------------:|
+|                    0                     |               0               |                          0.02667                           |
+|                    25                    |            0.02667            |                          0.05333                           |
+|                    50                    |            0.08000            |                          0.16000                           |
+|                    75                    |            0.24000            |                          unknown                           |
+|                   100                    |           undefined           |                                                            |
+
 2. We can see that the rate of change is increasing at an increasing rate.
 3. When we tried to calculate **C(100)**, it came back _undefined_.
 4. Because **C(p)** is undefined at **p = 100**, it may be a **vertical
@@ -110,8 +110,8 @@ First, factor the function:
 
 ![](assets/fun_va_001.png)
 
-**(x - 3)** is in both the numerator and denominator, so as long as **x &ne; 3
-**, **<sup>x - 3</sup>&frasl;<sub>x - 3</sub> = 1**.
+**(x - 3)** is in both the numerator and denominator, so as long as
+**x &ne; 3**, **<sup>x - 3</sup>&frasl;<sub>x - 3</sub> = 1**.
 
 The simplified version is:
 
@@ -130,8 +130,8 @@ Wrapping it up by graphing the function:
 - A **horizonal asymptote** of a function **&fnof;** is a horizontal line that
   the graph of **fnof;** approaches as **x** approaches **&pm;&infin;**.
     - _More formally:_ A horizontal asymptote occurs at **y = b** <u>only if</u>
-      the graph of **&fnof;** approaches **y = b** as **x** approaches *
-      *&pm;&infin;**.
+      the graph of **&fnof;** approaches **y = b** as **x** approaches
+      **&pm;&infin;**.
 - Graphs can have both horizontal and vertical asymptotes.
 - Horizontal asymptotes of rational functions are a line, **y = b**, that the
   function approaches as the independent variables approaches **&pm;&infin;**.
@@ -140,8 +140,8 @@ Wrapping it up by graphing the function:
 
 ![](assets/graph_ha_002.png)
 
-- In this example graph, the line oscillates _(moves back and forth)_, but as *
-  *x &rarr; &infin;, &fnof;(x) &rarr; 3**.
+- In this example graph, the line oscillates _(moves back and forth)_, but as
+  **x &rarr; &infin;, &fnof;(x) &rarr; 3**.
 
 ### How to Find Horizontal Asymptotes
 
@@ -214,4 +214,3 @@ hand.
 ## Example of Finding The Inverse of a Rational Function
 
 ![](assets/fun_inverse_001.png)
-
