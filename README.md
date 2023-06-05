@@ -4,8 +4,8 @@
 
 - **Module 00:** [Getting Started](modules/module_00_getting_started/notes.md)
 - **Module 01:** [Modeling With Other Types of Functions](modules/module_01_modeling_with_other_types_of_functions/notes.md)
-- **Module 02:** [Subject](modules/module_02/notes.md)
-- **Module 03:** [Subject](modules/module_03/notes.md)
+- **Module 02:** [Rational Functions](modules/module_02_rational_functions/notes.md)
+- **Module 03:** [Piecewise Functions](modules/module_03_piecewise_functions/notes.md)
 - **Module 04:** [Subject](modules/module_04/notes.md)
 - **Module 05:** [Subject](modules/module_05/notes.md)
 - **Module 06:** [Subject](modules/module_06/notes.md)
