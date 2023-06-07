@@ -1,25 +1,23 @@
 # Module 3 - Piecewise Functions
 
 <!-- TOC -->
-
 * [Module 3 - Piecewise Functions](#module-3---piecewise-functions)
 * [General Notes](#general-notes)
 * [Piecewise Functions](#piecewise-functions)
-    * [Piecewise Function Structure Examples](#piecewise-function-structure-examples)
-    * [Example of Discontinuous Piecewise Function](#example-of-discontinuous-piecewise-function)
-        * [Table](#table)
-        * [Graph](#graph)
+  * [Piecewise Function Structure Examples](#piecewise-function-structure-examples)
+  * [Example of Discontinuous Piecewise Function](#example-of-discontinuous-piecewise-function)
+    * [Table](#table)
+    * [Graph](#graph)
 * [Using Regression to Create a Piecewise Function](#using-regression-to-create-a-piecewise-function)
-    * [Table](#table-1)
-    * [Graph](#graph-1)
-    * [Solution](#solution)
-        * [Section One](#section-one)
-        * [Section Two](#section-two)
-        * [Section Three](#section-three)
-        * [Final Piecewise Function](#final-piecewise-function)
+  * [Table](#table-1)
+  * [Graph](#graph-1)
+  * [Solution](#solution)
+    * [Section One](#section-one)
+    * [Section Two](#section-two)
+    * [Section Three](#section-three)
+    * [Final Piecewise Function](#final-piecewise-function)
 * [Graphing a Piecewise Function from an Equation](#graphing-a-piecewise-function-from-an-equation)
 * [Creating a Table and Graph for the Absolute Value Function](#creating-a-table-and-graph-for-the-absolute-value-function)
-
 <!-- TOC -->
 
 # General Notes
