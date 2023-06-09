@@ -7,7 +7,7 @@
 - **Module 02:** [Rational Functions](modules/module_02_rational_functions/notes.md)
 - **Module 03:** [Piecewise Functions](modules/module_03_piecewise_functions/notes.md)
 - **Module 04:** [Function Composition](modules/module_04_function_composition/notes.md)
-- **Module 05:** [Subject](modules/module_05/notes.md)
+- **Module 05:** [Percent Change and Radicals with Higher Order Radicals](modules/module_05_percent_change_and_radicals/notes.md)
 - **Module 06:** [Subject](modules/module_06/notes.md)
 - **Module 07:** [Subject](modules/module_07/notes.md)
 - **Module 08:** [Subject](modules/module_08/notes.md)
