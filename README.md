@@ -8,7 +8,7 @@
 - **Module 03:** [Piecewise Functions](modules/module_03_piecewise_functions/notes.md)
 - **Module 04:** [Function Composition](modules/module_04_function_composition/notes.md)
 - **Module 05:** [Percent Change and Radicals with Higher Order Radicals](modules/module_05_percent_change_and_radicals/notes.md)
-- **Module 06:** [Subject](modules/module_06/notes.md)
+- **Module 06:** [Exponential Function Modeling and Graphs](modules/module_06_exponential_function_modeling_and_graphs/notes.md)
 - **Module 07:** [Subject](modules/module_07/notes.md)
 - **Module 08:** [Subject](modules/module_08/notes.md)
 - **Module 09:** [Subject](modules/module_09/notes.md)
