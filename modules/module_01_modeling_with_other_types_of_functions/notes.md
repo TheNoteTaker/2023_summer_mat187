@@ -233,20 +233,22 @@ Given: **&fnof;(x) = ax<sup>n</sup>**
 
 ## Math Examples
 
-- If you are asked to fill in a table based on the representation of a power function, fill in fractions rather than decimals.
-
+- If you are asked to fill in a table based on the representation of a power
+  function, fill in fractions rather than decimals.
 
 ### Math Example 1
 
 - _k_ is the constant of proportionality.
 
-A quantity **W** is inversely proportional to the square root of a quantity 
+A quantity **W** is inversely proportional to the square root of a quantity
 **n**.
 
-1. Write out the base equation &rarr; **W(n) = k&radic;<span style="text-decoration:overline">n</span>**
+1. Write out the base equation &rarr; **W(n) =
+   k&radic;<span style="text-decoration:overline">n</span>**
 2. Rewrite the radical as a rational exponent &rarr; **W(n) = kn<sup>1/2</sup>**
-3. Because it is looking for the inverse the equation goes from **y = ax<sup>b</sup>** &rarr; **y = ax<sup>-c</sup>**.
-   - Where **c** is a positive number equal to **|&hairsp;b&hairsp;|**.
+3. Because it is looking for the inverse the equation goes from **y = ax<sup>
+   b</sup>** &rarr; **y = ax<sup>-c</sup>**.
+    - Where **c** is a positive number equal to **|&hairsp;b&hairsp;|**.
 4. Final answer &rarr; **W(n) = kn<sup>&minus;1/2</sup>**
 
 ### Math Example 2
@@ -254,11 +256,13 @@ A quantity **W** is inversely proportional to the square root of a quantity
 Solve the given equation: **4x<sup>3/2</sup> = 20**
 
 1. Divide both sides by **4** &rarr; **x<sup>3/2</sup> = 5**
-2. Rewrite the equation as either: 
-   1. **(x<sup>3</sup>)<sup><sup>1</sup>&frasl;<sub>2</sub></sup> = 5**
-   2. **&radic;<span style="text-decoration:overline">x</span><sup>3</sup> = 5**
+2. Rewrite the equation as either:
+    1. **(x<sup>3</sup>)<sup><sup>1</sup>&frasl;<sub>2</sub></sup> = 5**
+    2. **&radic;<span style="text-decoration:overline">x</span><sup>3</sup> = 5
+       **
 3. Square both sides &rarr; **x<sup>3</sup> = 25**
-4. Take the cube root of both sides &rarr; **x = <sup>3</sup>&radic;<span style="text-decoration:overline">5</span>**
+4. Take the cube root of both sides &rarr; **x = <sup>3</sup>
+   &radic;<span style="text-decoration:overline">5</span>**
 5. Final answer &rarr; **x = 2.924017738212866** &approx; **2.924**
 
 ### Math Example 3
@@ -266,11 +270,12 @@ Solve the given equation: **4x<sup>3/2</sup> = 20**
 Solve the given equation: **10x<sup>&minus;2.5</sup> = 60**
 
 1. Divide both sides by **10** &rarr; **x<sup>&minus;2.5</sup> = 6**
-2. Rewrite the equation as &rarr; **<sup>1</sup>&frasl;<sub>x<sup>2.5</sup></sub> = 6**
-3. Multiply both sides by the reciprocal of **<sup>1</sup>&frasl;<sub>x<sup>2.5</sup></sub>** &rarr; **1 = 6x<sup>2.5</sup>**
-4. Divide both sides by **6** &rarr; **<sup>1</sup>&frasl;<sub>6</sub> = x<sup>2.5</sup>**
-5. Rewrite the equation as &rarr; **<sup>2.5</sup>&radic;<span style="text-decoration:overline">(&frac16;)</span> = x**
+2. Rewrite the equation as &rarr; **<sup>1</sup>&frasl;<sub>x<sup>
+   2.5</sup></sub> = 6**
+3. Multiply both sides by the reciprocal of **<sup>1</sup>&frasl;<sub>x<sup>
+   2.5</sup></sub>** &rarr; **1 = 6x<sup>2.5</sup>**
+4. Divide both sides by **6** &rarr; **<sup>1</sup>&frasl;<sub>6</sub> = x<sup>
+   2.5</sup>**
+5. Rewrite the equation as &rarr; **<sup>2.5</sup>
+   &radic;<span style="text-decoration:overline">(&frac16;)</span> = x**
 6. Final answer &rarr; **x = 0.4883593419 &approx; 0.488**
-
-# Power Functions
-
