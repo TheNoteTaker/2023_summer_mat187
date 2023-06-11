@@ -77,7 +77,7 @@ Here's the given information converted into a markdown table:
 |            10            |              73,600              |                                    |                                              |
 
 - Neither the **first differences** nor the **second differences** are constant,
-  so the growth is <u>neither linear nor exponential</u>.
+  so the growth is <u>neither linear nor quadratic</u>.
 
 The next step is to calculate the ratio (quotient) instead of the first and
 second difference:
