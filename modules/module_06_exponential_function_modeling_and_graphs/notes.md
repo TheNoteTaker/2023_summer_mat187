@@ -43,9 +43,9 @@ whether or not the estimate is realistic."_
     - Let **_n_** represent the number of nets distributed (in thousands).
 2. Create a table of values for a better visual representation:
     - | **_t_** | **_n_** |
-                       |:-------:|:-------:|
-      | 0       | 538     |
-      | 4       | 9485    |
+      |:-------:|:-------:|
+      |    0    |   538   |
+      |    4    |  9485   |
 3. Use the initial value as part of the exponential formula:
    <br/>**_n_(_t_) = 538(b)<sup>4</sup>**
 4. Substitute the second point into the formula to find the base:
