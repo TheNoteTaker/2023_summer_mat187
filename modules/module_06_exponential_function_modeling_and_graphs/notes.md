@@ -1,10 +1,23 @@
 # Module 6 - Exponential Function Modeling and Graphs
 
 <!-- TOC -->
-
 * [Module 6 - Exponential Function Modeling and Graphs](#module-6---exponential-function-modeling-and-graphs)
 * [General Notes](#general-notes)
-
+* [Modeling with Constant Percentage Rates of Change](#modeling-with-constant-percentage-rates-of-change)
+  * [Creating an Exponential Model from a Verbal Description](#creating-an-exponential-model-from-a-verbal-description)
+  * [Comparing a Rate of Change to a Percentage Change Rate](#comparing-a-rate-of-change-to-a-percentage-change-rate)
+* [Modeling Half-Life and Doubling Time](#modeling-half-life-and-doubling-time)
+  * [Half-Life Example](#half-life-example)
+  * [Doubling Time Example](#doubling-time-example)
+    * [Doubling Time Solution](#doubling-time-solution)
+  * [Determining if Data Can Be Represented by an Exponential Model](#determining-if-data-can-be-represented-by-an-exponential-model)
+* [Using Regression to Find an Exponential Model](#using-regression-to-find-an-exponential-model)
+* [Graphing Exponential Functions](#graphing-exponential-functions)
+  * [The Graphical Significance of the Change Factor](#the-graphical-significance-of-the-change-factor)
+    * [Graphical Meaning of the Initial Value](#graphical-meaning-of-the-initial-value)
+* [Asymptotes](#asymptotes)
+* [Using Exponential Regression to Model an Aligned Data Set](#using-exponential-regression-to-model-an-aligned-data-set)
+* [Technological Tip](#technological-tip)
 <!-- TOC -->
 
 # General Notes
