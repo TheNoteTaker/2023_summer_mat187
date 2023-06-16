@@ -2,6 +2,7 @@
 
 <!-- TOC -->
 * [Module 8 - Logarithmic Function Modeling](#module-8---logarithmic-function-modeling)
+* [General Notes](#general-notes)
 * [Graphing Logarithmic Functions](#graphing-logarithmic-functions)
   * [Using Regression to Find a Logarithmic Model for a Data Set](#using-regression-to-find-a-logarithmic-model-for-a-data-set)
 * [Finding an exponential Model Using Logarithms](#finding-an-exponential-model-using-logarithms)
@@ -9,6 +10,10 @@
   * [Finding an exponential Model from a Linearized data Set](#finding-an-exponential-model-from-a-linearized-data-set)
 * [Logarithmic Regression Formula](#logarithmic-regression-formula)
 <!-- TOC -->
+
+# General Notes
+
+- The initial value of an exponential function will be the zero _(horizontal intercept)_ of its logarithmic function inverse.
 
 # Graphing Logarithmic Functions
 
