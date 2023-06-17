@@ -41,7 +41,9 @@
 - **a:** This variable is related to the initial value of the function. 
   - Specifically, when **x=0**, the function evaluates to **<sup>L</sup>&frasl;<sub>1 + a</sub>**
 - **b:** This variable determines the steepness of the curve. 
-  - Larger values of b result in a steeper growth curve. 
+  - Larger values of **b** result in a steeper growth curve.
+  - If **b** is **negative**, the function will be an **increasing** function.
+  - If **b** is **positive**, the function will be a **decreasing** function.
 - **e:** This is the base of the natural logarithm, a mathematical constant approximately equal to **2.71828**. 
   - It's used in the exponential part of the function to create the characteristic "S" shape of the logistic curve.
 
@@ -59,7 +61,7 @@
     - Specifically, when **x = 0**, the function evaluates to **<sup>c</sup>
       &frasl;<sub>1 + a</sub>**.
 - **b**: This variable determines the steepness of the curve.
-    - Larger values of bbb result in a steeper growth curve.
+    - Larger values of **b** result in a steeper growth curve.
 - **h**: This is the **x**-value of the function's point of maximum growth, also
   known as the inflection point.
     - This is the point at which the growth rate of
