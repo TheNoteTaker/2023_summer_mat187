@@ -28,30 +28,24 @@
 - Exponential growth cannot continue forever and factors will always limit the
   growth.
 
-# Logistic Growth
+# Graphing Logistical Functions in Desmos
 
-![](assets/graph_log_func_001.png)
-
-- **a:** Very slow exponential Growth
-- **b:** Rapid exponential growth
-- **c:** Slower increase
-- **d:** Leveling off
-- **Inflection point:** When the rate of change is at its maximum.
-- **Red dashed line:** Horizontal asymptote
-    - Represents the **limiting value** of the function.
-- The mathematical model for such behavior is called a **logistic function**.
-
-## Definition: Logistic Function
-
-![](assets/def_logistic_func.png)
-
-### Graphing Logistical Functions in Desmos
-
-#### Option One (Recommended for this course)
+## Option One (Recommended for this course)
 
 ![](assets/graph_log_func_002.png)
 
-#### Option Two
+- **x:** This is the input to the function. 
+  - Depending on the context, this could represent time, a certain measurement, or any other independent variable. 
+- **L:** This is the maximum value the function can have, also known as the carrying capacity. 
+  - In the context of population growth, this would represent the maximum population size that the environment can sustain.
+- **a:** This variable is related to the initial value of the function. 
+  - Specifically, when **x=0**, the function evaluates to **<sup>L</sup>&frasl;<sub>1 + a</sub>**
+- **b:** This variable determines the steepness of the curve. 
+  - Larger values of b result in a steeper growth curve. 
+- **e:** This is the base of the natural logarithm, a mathematical constant approximately equal to **2.71828**. 
+  - It's used in the exponential part of the function to create the characteristic "S" shape of the logistic curve.
+
+## Option Two
 
 > ![](assets/fun_log_001.png)
 
@@ -74,6 +68,23 @@
   approximately equal to **2.71828**.
     - It's used in the exponential part of the function to create the
       characteristic **"S"** shape of the logistic curve.
+
+# Logistic Growth
+
+![](assets/graph_log_func_001.png)
+
+- **a:** Very slow exponential Growth
+- **b:** Rapid exponential growth
+- **c:** Slower increase
+- **d:** Leveling off
+- **Inflection point:** When the rate of change is at its maximum.
+- **Red dashed line:** Horizontal asymptote
+    - Represents the **limiting value** of the function.
+- The mathematical model for such behavior is called a **logistic function**.
+
+## Definition: Logistic Function
+
+![](assets/def_logistic_func.png)
 
 ## Exploring Logistic Functions in a Real-world context
 
