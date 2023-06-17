@@ -11,7 +11,7 @@
 - **Module 06:** [Exponential Function Modeling and Graphs](modules/module_06_exponential_function_modeling_and_graphs/notes.md)
 - **Module 07:** [Solving Exponential and Logarithmic Equations](modules/module_07_solving_exponential_and_logarithmic_functions/notes.md)
 - **Module 08:** [Logarithmic Function Modeling](modules/module_08_logarithmic_function_modeling/notes.md)
-- **Module 09:** [Subject](modules/module_09/notes.md)
+- **Module 09:** [Logistic Functions](modules/module_09_logistic_functions/notes.md)
 - **Module 10:** [Subject](modules/module_10/notes.md)
 
 
