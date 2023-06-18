@@ -13,7 +13,7 @@
 - **Module 08:** [Logarithmic Function Modeling](modules/module_08_logarithmic_function_modeling/notes.md)
 - **Module 09:** [Logistic Functions](modules/module_09_logistic_functions/notes.md)
 - **Module 10:** [Periodic Functions](modules/module_10_periodic_functions/notes.md)
-- **Module 11:** [Subject](modules/module_11/notes.md)
+- **Module 11:** [Angle Measure](modules/module_11_angle_measure/notes.md)
 - **Module 12:** [Subject](modules/module_12/notes.md)
 - **Module 13:** [Subject](modules/module_13/notes.md)
 
