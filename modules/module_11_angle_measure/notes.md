@@ -3,6 +3,7 @@
 <!-- TOC -->
 * [Module 11 - Angles](#module-11---angles)
 * [General Notes](#general-notes)
+  * [Resources](#resources)
 * [Angles](#angles)
   * [Proportionality](#proportionality)
   * [Relationship Between Arc Length and Radius](#relationship-between-arc-length-and-radius)
@@ -40,7 +41,14 @@
 
 - You can drop the units and assume things like **&theta; = 4** is in radians.
 
+## Resources
+
 ![](assets/graphic_001.png)
+
+---
+
+**PDF Resource:** [Angle Measure, Arch Length, Sector Area](assets/section_8.2_anglemeasure_arclength_sectorarea.pdf)
+
 
 # Angles
 
@@ -145,7 +153,7 @@ _Explanation:_
 
 # Measuring Angles Using Radians
 
-FOr angles, there are two different measurement systems commonly used:
+For angles, there are two different measurement systems commonly used:
 
 1. **Degrees**
 2. **Radians**
@@ -155,7 +163,7 @@ FOr angles, there are two different measurement systems commonly used:
 
 - **Unit circle:** A circle of radius 1 centered at the origin.
 - ![](assets/radian_002.png)
-- If you take the radius length of a circle ad lay it along the circumference,
+- If you take the radius length of a circle and lay it along the circumference,
   starting at **(1, 0)** as pictured, the angle that is formed with the center
   of the circle is **1 radian**.
 - The measure of the angle &theta; that corresponds with an arc length of 1
