@@ -3,6 +3,7 @@
 <!-- TOC -->
 * [Module 11 - Angles](#module-11---angles)
 * [General Notes](#general-notes)
+  * [Explaining Why Angle Measure is Constant](#explaining-why-angle-measure-is-constant)
   * [Resources](#resources)
 * [Angles](#angles)
   * [Proportionality](#proportionality)
@@ -41,6 +42,20 @@
 
 - You can drop the units and assume things like **&theta; = 4** is in radians.
 
+## Explaining Why Angle Measure is Constant
+
+Within this angle in the unit circle, it does not matter in which location
+the angle is measured, because the measure of the angle is the same due to:
+
+> **&theta; =  k&hairsp;<sup>s</sup>&frasl;<sub>r</sub>**
+
+![](assets/circle_arc_008.png)
+
+- **k** is the constant of measure that sets the outcome to the correct units, by multiplying it by either **1 for radians** or **<sup>180</sup>&frasl;<sub>2&pi;</sub>** for degrees.
+- **s** is the arc length and changes at each point from where the angle is measured.
+- **r** is the radius and changes at each point from where the angle is measured.
+- The reason that the angle measure is constant is that the arc length and radius are changing at the same rate, so the ratio of the two is constant.
+
 ## Resources
 
 ![](assets/graphic_001.png)
@@ -62,8 +77,6 @@
   of the arc, **s**, can be found with some constant, **k**
   <br/>**Equation: s = kC**
     - **Circumference: C = 2&pi;_r_**
-    - The constant of proportionality, **k**, tells what proportion of the
-      circumference is included in the arc length.
 
 We have two equations now and will substitute one into the other:
 

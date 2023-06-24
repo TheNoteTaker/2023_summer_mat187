@@ -14,7 +14,7 @@
 - **Module 09:** [Logistic Functions](modules/module_09_logistic_functions/notes.md)
 - **Module 10:** [Periodic Functions](modules/module_10_periodic_functions/notes.md)
 - **Module 11:** [Angle Measure](modules/module_11_angle_measure/notes.md)
-- **Module 12:** [Subject](modules/module_12/notes.md)
+- **Module 12:** [Unit Circle and Trigonometric Circles](modules/module_12_unit_circle_and_trigonometric_functions/notes.md)
 - **Module 13:** [Subject](modules/module_13/notes.md)
 
 
