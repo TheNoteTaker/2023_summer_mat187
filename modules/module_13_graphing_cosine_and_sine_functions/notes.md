@@ -144,16 +144,16 @@ Compare the two graphs of:
 
 ### Function Reflection Graphing Two
 
-Compare the two graphs below with the ones above:
+Compare the two graphs below:
 
 > 1. **h(&theta;) = cos(&minus;&theta;)**
 > 2. **j(&theta;) = &minus;cos(&theta;)**
 
 ![](assets/graph_trig_008.png)
 
-- The graph of **h(&theta;) = cos(&minus;&theta;)** is a <u>_horizontal reflection_</u> of the graph of **x(&theta;) = cos(&theta;)**.
+- The graph of **h(&theta;) = cos(&minus;&theta;)** is a <u>_**not a** horizontal reflection_</u> of the graph of **x(&theta;) = cos(&theta;)**.
+  - The graphs are symmetric on the y-axis, meaning the cosine function has **even symmetry** and a horizontal reflection won't change the shape of the graph.
 - The graph of **j(&theta;) = &minus;cos(&theta;)** is a <u>_vertical reflection_</u> of the graph of **x(&theta;) = cos(&theta;)**.
-- The graphs are symmetric on the y-axis, meaning the cosine function has **even symmetry** and a horizontal reflection won't change the shape of the graph.
 
 ## Vertically Stretching and Compressing Cosine and Sine Functions
 
