@@ -15,8 +15,8 @@
 - **Module 10:** [Periodic Functions](modules/module_10_periodic_functions/notes.md)
 - **Module 11:** [Angle Measure](modules/module_11_angle_measure/notes.md)
 - **Module 12:** [Unit Circle and Trigonometric Circles](modules/module_12_unit_circle_and_trigonometric_functions/notes.md)
-- **Module 13:** [Subject](modules/module_13_graphing_cosine_and_sine_functions/notes.md)
-- **Module 13:** [Subject](modules/module_13/notes.md)
+- **Module 13:** [Graphing Cosine and Sine Functions](modules/module_13_graphing_cosine_and_sine_functions/notes.md)
+- **Module 14:** [Modeling with Trigonometric Functions](modules/module_14_modeling_with_trigonometric_functions/notes.md)
 - **Module 13:** [Subject](modules/module_13/notes.md)
 - **Module 13:** [Subject](modules/module_13/notes.md)
 
