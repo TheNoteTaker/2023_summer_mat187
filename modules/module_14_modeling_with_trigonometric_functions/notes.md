@@ -6,6 +6,7 @@
 * [Generating a Sinusoidal Model from a Verbal Description](#generating-a-sinusoidal-model-from-a-verbal-description)
 * [Generating a Sinusoidal Model from a Table of Data](#generating-a-sinusoidal-model-from-a-table-of-data)
 * [Generating an Equation from the Graph of a Sinusoid](#generating-an-equation-from-the-graph-of-a-sinusoid)
+  * [Finding the Sinusoidal Equation from a Graph](#finding-the-sinusoidal-equation-from-a-graph)
 <!-- TOC -->
 
 # General Notes
