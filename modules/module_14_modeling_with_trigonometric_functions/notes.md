@@ -106,3 +106,21 @@ Given the info and graph:
   - For a cosine function, **y = cos(x)**, the maximum value occurs at **x = 0 degrees _(0 radians)_**. 
 - When you have a sine function, and you want to convert it to a cosine function, you need to account for this difference in where the maximum value occurs. 
   - This is done by shifting the graph horizontally, also known as a **phase shift** or **horizontal shift**.
+
+## Finding the Sinusoidal Equation from a Graph
+
+Sure, here are the steps to find the sinusoidal function from a graph:
+
+1. **Identify the Amplitude (A)**: The amplitude is the distance fr om the midline (or the average of the maximum and minimum values) to either the maximum or minimum point of the graph. It's essentially half the total vertical distance between the highest and lowest points on the graph.
+2. **Identify the Period (T)**: The period is the horizontal length of one complete cycle of the graph. You can find this by identifying two corresponding points on the graph (like two peaks or two troughs) and finding the horizontal distance between them.
+3. **Identify the Frequency (B)**: The frequency is the reciprocal of the period (B = 1/T). This represents how many cycles the function completes in a 2π interval.
+4. **Identify the Phase Shift (C)**: The phase shift is the horizontal shift of the graph. If the graph starts at a maximum or minimum point at x=0, there is no phase shift. If not, the phase shift is the horizontal distance between the y-axis and the first maximum or minimum point. If the shift is to the right, it's positive. If it's to the left, it's negative.
+5. **Identify the Vertical Shift (D)**: The vertical shift is the value of the midline of the graph. If the midline is not the x-axis, then the graph has been shifted up or down.
+6. **Identify whether the function is a sine or cosine function**: If the graph starts at a maximum or minimum point, it's a cosine function. If it starts at the midline going upwards, it's a sine function. If it starts at the midline going downwards, it's a negative sine function.
+
+Once you have identified these parameters, you can write the function in the form:
+
+- For sine: **y = A sin(B(x - C)) + D**
+- For cosine: **y = A cos(B(x - C)) + D**
+
+Remember, these steps are for the basic transformations of the sine and cosine functions. If the graph has more complex transformations, additional steps may be necessary.
